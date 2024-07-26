@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sanish Thapa</h1>
 <h3 align="center">A passionate Full Stack developer from Nepal</h3>
-<img align="right" alt="coding" width="400" scr="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif"/>
+<img align="right" alt="coding"  scr=""/>
+ <img width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" alt="Profile views badge" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanish73&label=Profile%20views&color=0e75b6&style=flat" alt="sanish73" /> </p>
 
-<a href="https://github.com/sanish73" target="_blank" title="Visit my GitHub profile">
-    <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" alt="Profile views badge" />
-  </a>
 - 🌱 I’m currently learning **React.js**
 
 - 💬 Ask me about **Laravel**
