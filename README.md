@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" scr="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif"/>
 
 <a href="https://github.com/sanish73" target="_blank" title="Visit my GitHub profile">
-    <img src="https://komarev.com/ghpvc/?username=sanish73&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views badge" />
+    <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" alt="Profile views badge" />
   </a>
 - 🌱 I’m currently learning **React.js**
 
